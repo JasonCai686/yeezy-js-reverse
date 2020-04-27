@@ -1,0 +1,1 @@
+{"message":"confirm.error.paymentdeclined.refused","errorCode":"refused","messageList":[{"type":"PaymentNotAuthorized","details":{"code":"INVALID_PAYMENT_RESULT","status":1,"message":"Not successful payment status code REFUSED for Order AYS01688024"}}]}
